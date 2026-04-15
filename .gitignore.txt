@@ -1,0 +1,57 @@
+# 🔹 Compiled files (C++)
+
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# 🔹 Debug / build folders
+
+build/
+Debug/
+Release/
+
+# 🔹 IDE files
+
+# VS Code
+
+.vscode/
+
+# CodeBlocks
+
+*.cbp
+*.layout
+*.depend
+
+# Dev C++
+
+*.dev
+
+# Visual Studio
+
+*.sln
+*.vcxproj*
+*.user
+*.pdb
+
+# 🔹 Temporary files
+
+*.log
+*.tmp
+*.cache
+
+# 🔹 OS files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 Backup files
+
+*~
+*.bak
+
+# 🔹 PDF/PPT auto backups (optional)
+
+~$*.pptx
+~$*.docx
