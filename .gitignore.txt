@@ -51,7 +51,3 @@ Thumbs.db
 *~
 *.bak
 
-# 🔹 PDF/PPT auto backups (optional)
-
-~$*.pptx
-~$*.docx
