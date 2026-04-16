@@ -67,6 +67,7 @@ public:
 
     void showResult() {
         cout << "\nYour Score: " << score << "/" << count << endl;
+        cout << "*********************************\n" << endl;
     }
 };
 
@@ -76,6 +77,7 @@ private:
 
 public:
     void start() {
+        cout << "\n*********************************" << endl;
         cout << "Enter your name: ";
         cin >> name;
 
